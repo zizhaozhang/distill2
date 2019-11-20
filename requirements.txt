@@ -1,0 +1,11 @@
+numpy==1.15.4
+nltk==3.2.4
+torch==0.4.1
+torchvision==0.2.2
+scipy==0.19.1
+scikit-learn==0.21.2
+scikit-image==0.14.1
+tensorboardX
+deepdish==0.3.6
+Cython
+pycocotools==2.0.0
