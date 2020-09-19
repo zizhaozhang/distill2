@@ -1,5 +1,5 @@
 # Text-guided Neural Network Training for Image Recognition in Natural Scenes and Medicine
-This repo contains the source code of the paper.
+This repo contains the source code and prepared datasets of the paper.
 
 ## Preparation
 #### Prerequisites
